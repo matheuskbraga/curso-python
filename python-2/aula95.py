@@ -1,3 +1,0 @@
-# raise - lançando exceções (erros)
-
- 
